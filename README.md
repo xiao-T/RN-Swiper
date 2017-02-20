@@ -47,9 +47,9 @@ AppRegistry.registerComponent('SwiperDemo', () => SwiperDemo);
 | Parameter | Type | Default | Description |   
 |-----------|------|--------|----------|
 | thumbs | Array | | *Required |
-| autoplay | Boolean | true |
-| delay | Number | 4000 |----------|
-| hasTitle | Boolean | false | |
+| autoplay | Boolean | true | 是否自动切换swiper |
+| delay | Number | 4000 | 每个swiper自切换的时间间隔 |
+| hasTitle | Boolean | false | 是否有标题，如果设置true；thumbs要传入对应的值 |
 
 
 
