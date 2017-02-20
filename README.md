@@ -44,5 +44,12 @@ AppRegistry.registerComponent('SwiperDemo', () => SwiperDemo);
 ***
 ## OPTION
 
+| Parameter | Type | Default | Description |   
+|-----------|------|--------|----------|
+| thumbs | Array | | *Required |
+| autoplay | Boolean | true |
+| delay | Number | 4000 |----------|
+| hasTitle | Boolean | false | |
+
 
 
