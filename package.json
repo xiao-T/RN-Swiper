@@ -1,0 +1,24 @@
+{
+  "name": "rn-swiper",
+  "version": "1.0.0",
+  "description": "Swiper Component For React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiao-T/RN-Swiper.git"
+  },
+  "keywords": [
+    "react-native",
+    "swiper",
+    "javascript"
+  ],
+  "author": "xiaoT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiao-T/RN-Swiper/issues"
+  },
+  "homepage": "https://github.com/xiao-T/RN-Swiper#readme"
+}

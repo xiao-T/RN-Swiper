@@ -1,7 +1,12 @@
 # RN-Swiper 
 Swiper Component For React Native   
 ***
-## DEMO
+# Installation
+```
+$ npm i react-native-swiper -D
+```
+
+## Demo
 
 ```
 import React, { Component } from 'react';
@@ -42,7 +47,7 @@ export default class SwiperDemo extends Component {
 AppRegistry.registerComponent('SwiperDemo', () => SwiperDemo);
 ```  
 ***
-## OPTION
+## Option
 
 | Parameter | Type | Default | Description |   
 |-----------|------|--------|----------|
