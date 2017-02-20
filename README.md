@@ -1,2 +1,2 @@
 # RN-Swiper
-react native swiper
+Swiper Component For React Native
